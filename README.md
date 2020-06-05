@@ -1,23 +1,22 @@
 # Amazon_Qa_Automation
 Prueba de habilidades para automatización OrionTek
 
-## Getting Started
+## Breve descripción del proyecto
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+En el siguiente proyecto presento algunas de mis habilidades de automatizados enfocado a la funcionalidad y analisis de los problemas ,para automatizar algunos de los escenarios y casos de prueba que se pueden encontrar en la pagina de amazon
 
-### Prerequisites
+### Preparativos
 
-What things you need to install the software and how to install them
+Requsitos para poder correr los Test-Scripts(Aclarando que tales herramientas seran econtradas en el repositorio mismo):
+  Python 3.8.2
+  GoogleChrome version 77.0.3865.75
+  chromedriver_win32 con su version  77
+  
+*Instalación
 
-```
-Give examples
-```
+Preparando el ambiente debemos de instalar las herramientas en el sistema:
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Instalar
 
 ```
 Give the example

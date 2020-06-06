@@ -18,7 +18,7 @@ Instalación
 
 Debemos descomprimir el archivo rar,preparando el ambiente debemos de instalar las herramientas en el sistema que se encuentran en una carpeta con ese mismo nombre:
 
-**Instalar
+## Instalar
   -Python 3.8.2
   -GoogleChrome version 77.0.3865.75
 

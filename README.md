@@ -3,7 +3,9 @@ Prueba de habilidades para automatización OrionTek
 
 ## Breve descripción del proyecto
 
-En el siguiente proyecto presento algunas de mis habilidades de automatizados enfocado a la funcionalidad y analisis de los problemas ,para automatizar algunos de los escenarios y casos de prueba que se pueden encontrar en la pagina de amazon
+En el siguiente proyecto presento algunas de mis habilidades de automatizados enfocado a la funcionalidad y analisis de los problemas ,para automatizar algunos de los escenarios y casos de prueba que se pueden encontrar en la pagina de amazon.
+
+En el test-sscript presentado se solucionan los casos de pruebas presentados en el docuemento "Documentacion de prueba" ubicado en la carpeta de "Documentacion".
 
 ### Preparativos
 
@@ -12,37 +14,31 @@ Requsitos para poder correr los Test-Scripts(Aclarando que tales herramientas se
   GoogleChrome version 77.0.3865.75
   chromedriver_win32 con su version  77
   
-*Instalación
+Instalación
 
-Preparando el ambiente debemos de instalar las herramientas en el sistema:
+Debemos descomprimir el archivo rar,preparando el ambiente debemos de instalar las herramientas en el sistema que se encuentran en una carpeta con ese mismo nombre:
 
 Instalar
+  -Python 3.8.2
+  -GoogleChrome version 77.0.3865.75
 
-```
-Give the example
-```
+Instalar los modulos para poder correr el script:
+  1-Abrimos una consola del sistema(Tecleamos CMD en la barra de busqueda del inicio)
+  2-Instalamos los paquetes usados por python en este script:
+            *pip install selenium
+            *pip install pyautogui
+            *pip install HtmlTestRunner
+  3- Esperamos que se instalen corriendo cada comando individualmente.
+  4-Descargar el repositorio en formato "*.rar" en su estacion de trabajo y lo hubicamos pegamos en una carpeta vacia
+  5-Descrompimimos el archivo "*.rar"
+  
+  
 
-And repeat
+## Correr el script de prueba
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+1-
 
 ### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
 
 Explain what these tests test and why
 
@@ -54,25 +50,6 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
 ## Authors
+**Luis Legreaux** - Amazon Automation -(https://github.com/LuisLegreaux39)
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc

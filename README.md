@@ -36,9 +36,14 @@ Instalar los modulos para poder correr el script:
 
 Para correr el script de prueba debemos ubicarnos en la carpeta que descomrpimimos:
 1. Seleccionamos con un click derecho el archivo "app.py"
+
+![Abrir con Idle](https://user-images.githubusercontent.com/59577641/83972364-03e98e00-a8e0-11ea-8ff3-14b241f75c45.PNG)
+
 2. Abrimos el archivo "app.py" con el editor "IDLE"
 3. Una vez abierto el script seleccionamos la opcion "Run" en la barra de herramientas
 4. Seleccionamos la opcion "Run Module"
+![RunModule](https://user-images.githubusercontent.com/59577641/83972367-0e0b8c80-a8e0-11ea-94e7-90952e7222e1.PNG)
+
 5. Y el script comenzara a ejecutar.
 
 ## Obseraciones

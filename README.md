@@ -9,16 +9,15 @@ En el test-sscript presentado se solucionan los casos de pruebas presentados en 
 
 ### Preparativos
 
-Requsitos para poder correr los Test-Scripts(Aclarando que tales herramientas seran econtradas en el repositorio mismo):
+Requsitos para poder correr los Test-Scripts (El web driver se encuentra en repositorio mismo):
   - Python 3.8.2
   - GoogleChrome version 77.0.3865.75
+    - Url for google : "https://www.neowin.net/news/google-chrome-770386575-offline-installer/" 
   - chromedriver_win32 con su version  77
   
-Instalación
-
-Debemos descomprimir el archivo rar,preparando el ambiente debemos de instalar las herramientas en el sistema que se encuentran en una carpeta con ese mismo nombre:
-
 ## Instalar
+Debemos descomprimir el archivo rar e instalar:
+
 - Python 3.8.2.
 - GoogleChrome version 77.0.3865.75.
 

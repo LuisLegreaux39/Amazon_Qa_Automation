@@ -11,6 +11,7 @@ En el test-sscript presentado se solucionan los casos de pruebas presentados en 
 
 Requsitos para poder correr los Test-Scripts (El web driver se encuentra en repositorio mismo):
   - Python 3.8.2
+    - Url for pyhton : "https://www.python.org/"
   - GoogleChrome version 77.0.3865.75
     - Url for google : "https://www.neowin.net/news/google-chrome-770386575-offline-installer/" 
   - chromedriver_win32 con su version  77

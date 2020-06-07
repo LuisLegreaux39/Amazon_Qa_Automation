@@ -31,26 +31,26 @@ Instalar los modulos para poder correr el script:
 3. Esperamos que se instalen corriendo cada comando individualmente.
 4. Descargar el repositorio en formato "*.rar" en su estacion de trabajo y lo hubicamos pegamos en una carpeta vacia
 5. Descrompimimos el archivo "*.rar"
-  
-  
 
 ## Correr el script de prueba
 
-1-
+Para correr el script de prueba debemos ubicarnos en la carpeta que descomrpimimos:
+1. Seleccionamos con un click derecho el archivo "app.py"
+2. Abrimos el archivo "app.py" con el editor "IDLE"
+3. Una vez abierto el script seleccionamos la opcion "Run" en la barra de herramientas
+4. Seleccionamos la opcion "Run Module"
+5. Y el script comenzara a ejecutar.
+
+## Obseraciones
+Aqui algunas funcionalidades adicionales del script:
+
+- En caso de exista un captcha al ingresar a la pagina el script le pedira asistencia al automatizador por motivo de seguridad.
+- Al final de la corrida el script tomara una ScreenShot de los articulos seleccionados y lo guardara con el nombre de "Confirmacion de Articulos" en la careta donde se encuentra.
+- al final de la corrida el script generara un reporte con los resultados de la corrida y lo guardara en un carpeta llamada "Resultado de mi caso de prueba"
 
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Authors
+
 **Luis Legreaux** - Amazon Automation -(https://github.com/LuisLegreaux39)
 
